@@ -2,7 +2,7 @@
 
 ## Overview
 
-The cloudific Secure Cloud Monitor Monitor project is designed to enhance the security and monitoring capabilities of cloud infrastructure on AWS. It aims to provide a robust, scalable, and cost-effective observability framework, incorporating AWS-native services and Aviatrix for advanced network security. This initiative addresses the need for improved resilience and threat management following a DDoS attack that highlighted vulnerabilities in the existing setup.
+The cloudific Secure Cloud Monitor project is designed to enhance the security and monitoring capabilities of cloud infrastructure on AWS. It aims to provide a robust, scalable, and cost-effective observability framework, incorporating AWS-native services and Aviatrix for advanced network security. This initiative addresses the need for improved resilience and threat management following a DDoS attack that highlighted vulnerabilities in the existing setup.
 
 ## Components
 
